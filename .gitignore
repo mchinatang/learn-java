@@ -25,3 +25,6 @@ hs_err_pid*
 # target folder
 target/
 tmp/
+
+# dependency-reduced-pom.xml
+dependency-reduced-pom.xml
